@@ -1,10 +1,8 @@
-#EditTextShakeHelper
-
-##Founction Introduce
+#Founction Introduce
 
 This is a util class of EditText view,when the user input illegal data,you can use this tool to implement EditText motion animation effects and physical vibration effect
 
-##功能介绍
+#功能介绍
 这是一个EditText控件的震动效果的帮助类，当用户输入的数据非法时，我们可以通过这个工具类实现EditText的动画震动效果和物理振动效果。
 
 #About Me
